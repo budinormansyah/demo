@@ -20,9 +20,9 @@
     }
   },
   "playlist": {
-    "server_time": "2024-01-14 10:50:30",
+    "server_time": "2024-01-14 10:50:31",
     "data": {
-      "last_updated": "2024-01-14 10:18:40",
+      "last_updated": "2024-01-14 10:18:41",
       "device_logo": "https://assets.stickpng.com/images/62b1f01d8309c32ce1623db7.png",
       "contents": [
         {
@@ -187,7 +187,7 @@
       "weather_name": "Clouds",
       "weather_name_id": "Awan Mendung",
       "icon": "02d",
-      "temp": "26° C",
+      "temp": "27° C",
       "speed": "0.84 mph",
       "humidity": "80 %",
       "pressure": "1013 hPa"
