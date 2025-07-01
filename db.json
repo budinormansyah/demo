@@ -1,0 +1,429 @@
+{
+  "auth": {
+    "server_time": "2024-01-14 10:10:10",
+    "data": {
+      "token": "here_is_sample_value_token",
+      "refresh_token": "here_is_sample_value_refresh_token"
+    }
+  },
+  "auth-refresh": {
+    "server_time": "2024-01-14 10:10:10",
+    "data": {
+      "token": "here_is_sample_value_token_refresh",
+      "refresh_token": "here_is_sample_value_refresh_token_refresh"
+    }
+  },
+  "device-codes": {
+    "server_time": "2024-01-14 10:10:10",
+    "data": {
+      "device_code": "AD-1212-DA"
+    }
+  },
+  "playlist": {
+    "server_time": "2024-01-14 10:50:30",
+    "data": {
+      "last_updated": "2024-01-14 10:18:40",
+      "device_logo": "https://assets.stickpng.com/images/62b1f01d8309c32ce1623db7.png",
+      "contents": [
+        {
+          "id": "content_image_gif_1",
+          "name": "content_image_gif_1",
+          "content_id": "content_image_gif_1",
+          "url_portrait": "https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif",
+          "url_landscape": "https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif",
+          "duration": 5,
+          "ads_type": "premium",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_gif_2",
+          "name": "content_image_gif_2",
+          "content_id": "content_image_gif_2",
+          "url_portrait": "https://cdn.pixabay.com/animation/2024/11/16/02/20/02-20-51-934_512.gif",
+          "url_landscape": "https://cdn.pixabay.com/animation/2024/11/16/02/20/02-20-51-934_512.gif",
+          "duration": 5,
+          "ads_type": "premium",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_gif_3",
+          "name": "content_image_gif_3",
+          "content_id": "content_image_gif_3",
+          "url_portrait": "https://cdn.pixabay.com/animation/2023/04/06/23/17/23-17-32-365_512.gif",
+          "url_landscape": "https://cdn.pixabay.com/animation/2023/04/06/23/17/23-17-32-365_512.gif",
+          "duration": 5,
+          "ads_type": "premium",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_gif_4",
+          "name": "content_image_gif_4",
+          "content_id": "content_image_gif_4",
+          "url_portrait": "https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif",
+          "url_landscape": "https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif",
+          "duration": 5,
+          "ads_type": "premium",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_1",
+          "name": "content_image_1",
+          "content_id": "content_image_1",
+          "url_portrait": "https://cdn.pixabay.com/photo/2023/10/18/18/59/tomatoes-8324940_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2023/10/18/18/59/tomatoes-8324940_1280.jpg",
+          "duration": 5,
+          "ads_type": "premium",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_2",
+          "name": "content_image_2",
+          "content_id": "content_image_2",
+          "url_portrait": "https://cdn.pixabay.com/photo/2022/05/12/20/59/tulips-7192345_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2022/05/12/20/59/tulips-7192345_1280.jpg",
+          "duration": 5,
+          "ads_type": "ads",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_3",
+          "name": "content_image_3",
+          "content_id": "content_image_3",
+          "url_portrait": "https://cdn.pixabay.com/photo/2021/10/30/18/03/berlin-6755246_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2021/10/30/18/03/berlin-6755246_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_4",
+          "name": "content_image_4",
+          "content_id": "content_image_4",
+          "url_portrait": "https://cdn.pixabay.com/photo/2024/10/06/11/54/cows-9099843_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2024/10/06/11/54/cows-9099843_1280.jpg",
+          "duration": 5,
+          "ads_type": "ads",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_5",
+          "name": "content_image_5",
+          "content_id": "content_image_5",
+          "url_portrait": "https://cdn.pixabay.com/photo/2016/08/31/19/00/sunset-1634374_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2016/08/31/19/00/sunset-1634374_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_6",
+          "name": "content_image_6",
+          "content_id": "content_image_6",
+          "url_portrait": "https://cdn.pixabay.com/photo/2017/09/09/10/39/jump-2731641_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2017/09/09/10/39/jump-2731641_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_7",
+          "name": "content_image_7",
+          "content_id": "content_image_7",
+          "url_portrait": "https://cdn.pixabay.com/photo/2016/11/18/15/46/birthday-1835443_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2016/11/18/15/46/birthday-1835443_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_8",
+          "name": "content_image_8",
+          "content_id": "content_image_8",
+          "url_portrait": "https://cdn.pixabay.com/photo/2023/01/14/18/02/birthday-cake-7718754_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2023/01/14/18/02/birthday-cake-7718754_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_9",
+          "name": "content_image_9",
+          "content_id": "content_image_9",
+          "url_portrait": "https://cdn.pixabay.com/photo/2016/02/14/15/43/swimming-1199678_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2016/02/14/15/43/swimming-1199678_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_10",
+          "name": "content_image_10",
+          "content_id": "content_image_10",
+          "url_portrait": "https://cdn.pixabay.com/photo/2022/05/07/02/36/childrens-toys-7179337_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2022/05/07/02/36/childrens-toys-7179337_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_image_11",
+          "name": "content_image_11",
+          "content_id": "content_image_11",
+          "url_portrait": "https://cdn.pixabay.com/photo/2016/09/10/15/45/marbles-1659398_1280.jpg",
+          "url_landscape": "https://cdn.pixabay.com/photo/2016/09/10/15/45/marbles-1659398_1280.jpg",
+          "duration": 5,
+          "ads_type": "general",
+          "content_type": "image",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_1",
+          "name": "content_vid_1",
+          "content_id": "content_vid_1",
+          "url_portrait": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.mp4",
+          "duration": 22,
+          "ads_type": "premium",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_2",
+          "name": "content_vid_2",
+          "content_id": "content_vid_2",
+          "url_portrait": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_tiny.mp4",
+          "duration": 7,
+          "ads_type": "ads",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_3",
+          "name": "content_vid_3",
+          "content_id": "content_vid_3",
+          "url_portrait": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_tiny.mp4",
+          "duration": 16,
+          "ads_type": "general",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_4",
+          "name": "content_vid_4",
+          "content_id": "content_vid_4",
+          "url_portrait": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_tiny.mp4",
+          "duration": 14,
+          "ads_type": "premium",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_5",
+          "name": "content_vid_5",
+          "content_id": "content_vid_5",
+          "url_portrait": "https://cdn.pixabay.com/video/2024/08/09/225661_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2024/08/09/225661_tiny.mp4",
+          "duration": 37,
+          "ads_type": "ads",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_6",
+          "name": "content_vid_6",
+          "content_id": "content_vid_6",
+          "url_portrait": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_tiny.mp4",
+          "duration": 10,
+          "ads_type": "general",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_7",
+          "name": "content_vid_7",
+          "content_id": "content_vid_7",
+          "url_portrait": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_tiny.mp4",
+          "duration": 14,
+          "ads_type": "premium",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_8",
+          "name": "content_vid_8",
+          "content_id": "content_vid_8",
+          "url_portrait": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_tiny.mp4",
+          "duration": 17,
+          "ads_type": "ads",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        },
+        {
+          "id": "content_vid_9",
+          "name": "content_vid_9",
+          "content_id": "content_vid_9",
+          "url_portrait": "https://cdn.pixabay.com/video/2025/04/23/273883_tiny.mp4",
+          "url_landscape": "https://cdn.pixabay.com/video/2025/04/23/273883_tiny.mp4",
+          "duration": 17,
+          "ads_type": "ads",
+          "content_type": "video",
+          "expiry_date": "2025-05-14 10:10:10"
+        }
+      ],
+      "main_content": [
+        {
+          "content_id": "content_image_11"
+        },
+        {
+          "content_id": "content_image_6"
+        },
+        {
+          "content_id": "content_vid_9"
+        },
+        {
+          "content_id": "content_vid_8"
+        },
+        {
+          "content_id": "content_image_5"
+        },
+        {
+          "content_id": "content_vid_1"
+        },
+        {
+          "content_id": "content_vid_2"
+        },
+        {
+          "content_id": "content_image_gif_1"
+        },
+        {
+          "content_id": "content_image_gif_2"
+        },
+        {
+          "content_id": "content_vid_3"
+        },
+        {
+          "content_id": "content_vid_4"
+        },
+        {
+          "content_id": "content_image_1"
+        },
+        {
+          "content_id": "content_image_2"
+        },
+        {
+          "content_id": "content_vid_5"
+        },
+        {
+          "content_id": "content_vid_6"
+        },
+        {
+          "content_id": "content_image_gif_3"
+        },
+        {
+          "content_id": "content_image_gif_4"
+        },
+        {
+          "content_id": "content_vid_7"
+        },
+        {
+          "content_id": "content_image_3"
+        },
+        {
+          "content_id": "content_image_4"
+        }
+      ],
+      "top_right_content": [
+        {
+          "content_id": "content_image_6"
+        },
+        {
+          "content_id": "content_image_5"
+        },
+        {
+          "content_id": "content_image_gif_1"
+        },
+        {
+          "content_id": "content_image_11"
+        },
+        {
+          "content_id": "content_image_gif_2"
+        }
+      ],
+      "bottom_right_content": [
+        {
+          "content_id": "content_image_1"
+        },
+        {
+          "content_id": "content_image_2"
+        },
+        {
+          "content_id": "content_image_gif_3"
+        },
+        {
+          "content_id": "content_image_gif_4"
+        },
+        {
+          "content_id": "content_image_3"
+        },
+        {
+          "content_id": "content_image_4"
+        }
+      ],
+      "top_content": [
+        {
+          "message": "first header text goes here..."
+        },
+        {
+          "message": "second header text goes here..."
+        },
+        {
+          "message": "third header text goes here..."
+        }
+      ],
+      "bottom_content": [
+        {
+          "message": "1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "message": "2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        },
+        {
+          "message": "3. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  },
+  "weather": {
+    "server_time": "2024-01-14 10:50:30",
+    "data": {
+      "zone": "Depok 1",
+      "weather_name": "Clouds",
+      "weather_name_id": "Awan Mendung",
+      "icon": "02d",
+      "temp": "26° C",
+      "speed": "0.84 mph",
+      "humidity": "80 %",
+      "pressure": "1013 hPa"
+    }
+  }
+}
