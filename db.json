@@ -24,6 +24,12 @@
     "data": {
       "last_updated": "2024-01-14 10:18:41",
       "device_logo": "https://assets.stickpng.com/images/62b1f01d8309c32ce1623db7.png",
+      "time_background_color": "#1170a6",
+      "time_text_color": "#eaeceb",
+      "top_background_color": "#1170a6",
+      "top_text_color": "#eaeceb",
+      "bottom_background_color": "#1170a6",
+      "bottom_text_color": "#eaeceb",
       "contents": [
         {
           "id": "content_image_gif_1",
@@ -190,7 +196,9 @@
       "temp": "23° C",
       "speed": "0.84 mph",
       "humidity": "80 %",
-      "pressure": "1013 hPa"
+      "pressure": "1013 hPa",
+      "background_color": "#1170a6",
+      "text_color": "#eaeceb"
     }
   }
 }
