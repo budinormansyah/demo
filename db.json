@@ -28,6 +28,7 @@
       "time_text_color": "#eaeceb",
       "top_background_color": "#1170a6",
       "top_text_color": "#eaeceb",
+      "top_text_duration": 5,
       "bottom_background_color": "#1170a6",
       "bottom_text_color": "#eaeceb",
       "contents": [
