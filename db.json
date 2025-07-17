@@ -1,23 +1,23 @@
 {
-  "/api/auth/token": {
+  "token": {
     "server_time": "2024-01-14 10:10:10",
     "data": {
       "token": "58a02cb6-4a0c-4cd2-8a1b-d5ad8b137fb1"
     }
   },
-  "/api/auth/login": {
+  "login": {
     "server_time": "2024-01-14 10:10:10",
     "data": {
       "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI4Ni1FRjI2LTc0IiwiaWF0IjoxNzUyNTc4Mzk4LCJleHAiOjE3NTI2NjQ3OTh9.SKbKeqwr7d13cRcPvXTxh8X9p24xos49FuJFhfZMw58"
     }
   },
-  "/api/app/v1/devices/generate": {
+  "generate": {
     "server_time": "2024-01-14 10:10:10",
     "data": {
       "device_code": "AD-DEMO-DA"
     }
   },
-  "/api/app/v1/playlists": {
+  "playlists": {
     "playlist_id": 1,
     "updated_at": 1752760972951,
     "name": "Morning Lobby Playlist 1",
@@ -29,7 +29,7 @@
       "capture_quality": 85,
       "capture_compress": 5,
       "pooling_duration": 15,
-      "device_logo": "http://localhost:8080/uploads/cms/images/1752435311008_logo_avg.png",
+      "device_logo": "https://assets.stickpng.com/images/62b1f01d8309c32ce1623db7.png",
       "time_background_color": "#FF303F9F",
       "time_text_color": "#FFFF9800",
       "top_background_color": "#B3FFFFFF",
