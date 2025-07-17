@@ -18,12 +18,12 @@
     }
   },
   "playlists": {
-    "server_time": 1752764223679,
+    "server_time": 1752764223680,
     "status": "success",
     "message": "Data retrieved successfully",
     "data": {
       "playlist_id": 1,
-      "updated_at": 1752760972952,
+      "updated_at": 1752760972953,
       "name": "Morning Lobby Playlist 1",
       "description": "Updated content for the main lobby, now includes a new promotion.",
       "playlist_config": {
@@ -224,10 +224,10 @@
       ],
       "main_contents": [
         {
-          "content_id": 9
+          "content_id": 10
         },
         {
-          "content_id": 2
+          "content_id": 9
         },
         {
           "content_id": 13
