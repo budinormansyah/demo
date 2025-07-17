@@ -1,18 +1,18 @@
 {
   "token": {
-    "server_time": "2024-01-14 10:10:10",
+    "server_time": 1752760972951,
     "data": {
       "token": "58a02cb6-4a0c-4cd2-8a1b-d5ad8b137fb1"
     }
   },
   "login": {
-    "server_time": "2024-01-14 10:10:10",
+    "server_time": 1752760972951,
     "data": {
       "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI4Ni1FRjI2LTc0IiwiaWF0IjoxNzUyNTc4Mzk4LCJleHAiOjE3NTI2NjQ3OTh9.SKbKeqwr7d13cRcPvXTxh8X9p24xos49FuJFhfZMw58"
     }
   },
   "generate": {
-    "server_time": "2024-01-14 10:10:10",
+    "server_time": 1752760972951,
     "data": {
       "device_code": "AD-DEMO-DA"
     }
