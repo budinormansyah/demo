@@ -1,205 +1,310 @@
 {
-  "auth": {
+  "/api/auth/token": {
     "server_time": "2024-01-14 10:10:10",
     "data": {
-      "token": "here_is_sample_value_token",
-      "refresh_token": "here_is_sample_value_refresh_token"
+      "token": "58a02cb6-4a0c-4cd2-8a1b-d5ad8b137fb1"
     }
   },
-  "auth-refresh": {
+  "/api/auth/login": {
     "server_time": "2024-01-14 10:10:10",
     "data": {
-      "token": "here_is_sample_value_token_refresh",
-      "refresh_token": "here_is_sample_value_refresh_token_refresh"
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI4Ni1FRjI2LTc0IiwiaWF0IjoxNzUyNTc4Mzk4LCJleHAiOjE3NTI2NjQ3OTh9.SKbKeqwr7d13cRcPvXTxh8X9p24xos49FuJFhfZMw58"
     }
   },
-  "device-codes": {
+  "/api/app/v1/devices/generate": {
     "server_time": "2024-01-14 10:10:10",
     "data": {
-      "device_code": "AD-1212-DA"
+      "device_code": "AD-DEMO-DA"
     }
   },
-  "playlist": {
-    "server_time": "2024-01-14 10:50:31",
-    "data": {
-      "last_updated": "2024-01-14 10:18:41",
-      "device_logo": "https://assets.stickpng.com/images/62b1f01d8309c32ce1623db7.png",
-      "time_background_color": "#1170a6",
-      "time_text_color": "#eaeceb",
-      "top_background_color": "#1170a6",
-      "top_text_color": "#eaeceb",
-      "top_text_duration": 5,
-      "bottom_background_color": "#1170a6",
-      "bottom_text_color": "#eaeceb",
-      "contents": [
-        {
-          "id": "content_image_gif_1",
-          "name": "content_image_gif_1",
-          "content_id": "content_image_gif_1",
-          "url_portrait": "https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif",
-          "url_landscape": "https://cdn.pixabay.com/animation/2024/07/23/19/52/19-52-56-478_512.gif",
-          "duration": 5,
-          "ads_type": "premium",
-          "content_type": "image",
-          "expiry_date": "2025-05-14 10:10:10"
-        },
-        {
-          "id": "content_image_gif_2",
-          "name": "content_image_gif_2",
-          "content_id": "content_image_gif_2",
-          "url_portrait": "https://cdn.pixabay.com/animation/2023/04/06/23/17/23-17-32-365_512.gif",
-          "url_landscape": "https://cdn.pixabay.com/animation/2023/04/06/23/17/23-17-32-365_512.gif",
-          "duration": 5,
-          "ads_type": "premium",
-          "content_type": "image",
-          "expiry_date": "2025-05-14 10:10:10"
-        },
-        {
-          "id": "content_image_1",
-          "name": "content_image_1",
-          "content_id": "content_image_1",
-          "url_portrait": "https://cdn.pixabay.com/photo/2023/10/18/18/59/tomatoes-8324940_1280.jpg",
-          "url_landscape": "https://cdn.pixabay.com/photo/2023/10/18/18/59/tomatoes-8324940_1280.jpg",
-          "duration": 5,
-          "ads_type": "premium",
-          "content_type": "image",
-          "expiry_date": "2025-05-14 10:10:10"
-        },
-        {
-          "id": "content_image_2",
-          "name": "content_image_2",
-          "content_id": "content_image_2",
-          "url_portrait": "https://cdn.pixabay.com/photo/2022/05/07/02/36/childrens-toys-7179337_1280.jpg",
-          "url_landscape": "https://cdn.pixabay.com/photo/2022/05/07/02/36/childrens-toys-7179337_1280.jpg",
-          "duration": 5,
-          "ads_type": "ads",
-          "content_type": "image",
-          "expiry_date": "2025-05-14 10:10:10"
-        },
-        {
-          "id": "content_vid_6",
-          "name": "content_vid_6",
-          "content_id": "content_vid_6",
-          "url_portrait": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_tiny.mp4",
-          "url_landscape": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_tiny.mp4",
-          "duration": 10,
-          "ads_type": "general",
-          "content_type": "video",
-          "expiry_date": "2025-05-14 10:10:10"
-        },
-        {
-          "id": "content_vid_7",
-          "name": "content_vid_7",
-          "content_id": "content_vid_7",
-          "url_portrait": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_tiny.mp4",
-          "url_landscape": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_tiny.mp4",
-          "duration": 14,
-          "ads_type": "premium",
-          "content_type": "video",
-          "expiry_date": "2025-05-14 10:10:10"
-        },
-        {
-          "id": "content_vid_8",
-          "name": "content_vid_8",
-          "content_id": "content_vid_8",
-          "url_portrait": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_tiny.mp4",
-          "url_landscape": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_tiny.mp4",
-          "duration": 17,
-          "ads_type": "ads",
-          "content_type": "video",
-          "expiry_date": "2025-05-14 10:10:10"
-        },
-        {
-          "id": "content_vid_9",
-          "name": "content_vid_9",
-          "content_id": "content_vid_9",
-          "url_portrait": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_tiny.mp4",
-          "url_landscape": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_tiny.mp4",
-          "duration": 14,
-          "ads_type": "ads",
-          "content_type": "video",
-          "expiry_date": "2025-05-14 10:10:10"
-        }
-      ],
-      "main_content": [
-        {
-          "content_id": "content_vid_6"
-        },
-        {
-          "content_id": "content_vid_7"
-        },
-        {
-          "content_id": "content_image_gif_1"
-        },
-        {
-          "content_id": "content_image_1"
-        },
-        {
-          "content_id": "content_vid_8"
-        },
-        {
-          "content_id": "content_image_gif_2"
-        },
-        {
-          "content_id": "content_image_2"
-        },
-        {
-          "content_id": "content_vid_9"
-        }
-      ],
-      "top_right_content": [
-        {
-          "content_id": "content_image_gif_1"
-        },
-        {
-          "content_id": "content_image_gif_2"
-        }
-      ],
-      "bottom_right_content": [
-        {
-          "content_id": "content_image_1"
-        },
-        {
-          "content_id": "content_image_2"
-        }
-      ],
-      "top_content": [
-        {
-          "message": "first header text goes here..."
-        },
-        {
-          "message": "second header text goes here..."
-        },
-        {
-          "message": "third header text goes here..."
-        }
-      ],
-      "bottom_content": [
-        {
-          "message": "1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
-        {
-          "message": "2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-        },
-        {
-          "message": "3. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
-      ]
-    }
-  },
-  "weather": {
-    "server_time": "2024-01-14 10:50:30",
-    "data": {
-      "zone": "Jakarta",
-      "weather_name": "Clouds",
-      "weather_name_id": "Awan Mendung",
-      "icon": "10d",
-      "temp": "23° C",
-      "speed": "0.84 mph",
-      "humidity": "80 %",
-      "pressure": "1013 hPa",
-      "background_color": "#1170a6",
-      "text_color": "#eaeceb"
-    }
+  "/api/app/v1/playlists": {
+    "playlist_id": 1,
+    "updated_at": 1752760972951,
+    "name": "Morning Lobby Playlist 1",
+    "description": "Updated content for the main lobby, now includes a new promotion.",
+    "playlist_config": {
+      "name": "Vibrant Retail Config",
+      "description": "For in-store displays",
+      "capture_ratio": 0.3,
+      "capture_quality": 85,
+      "capture_compress": 5,
+      "pooling_duration": 15,
+      "device_logo": "http://localhost:8080/uploads/cms/images/1752435311008_logo_avg.png",
+      "time_background_color": "#FF303F9F",
+      "time_text_color": "#FFFF9800",
+      "top_background_color": "#B3FFFFFF",
+      "top_text_color": "#DD000000",
+      "top_text_duration": 10,
+      "bottom_background_color": "#B3FFFFFF",
+      "bottom_text_color": "#DD000000"
+    },
+    "weather": {
+      "id": 1,
+      "zone": "jp-tokyo",
+      "weather_name": "Overcast Clouds",
+      "weather_name_id": "Overcast Clouds",
+      "icon": "04d",
+      "temp": "19°C",
+      "speed": "8 km/h",
+      "humidity": "72%",
+      "pressure": "1010 hPa",
+      "background_color": "#FF1E88E5",
+      "text_color": "#FFFFFFFF"
+    },
+    "contents": [
+      {
+        "content_id": 1,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2024/03/12/203923-922675870_tiny.mp4",
+        "duration": 22,
+        "ads_type": "premium",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 2,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_tiny.mp4",
+        "duration": 7,
+        "ads_type": "ads",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 3,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_tiny.mp4",
+        "duration": 16,
+        "ads_type": "general",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 4,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_tiny.mp4",
+        "duration": 14,
+        "ads_type": "ads",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 5,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2024/08/09/225661_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2024/08/09/225661_tiny.mp4",
+        "duration": 37,
+        "ads_type": "ads",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 6,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_tiny.mp4",
+        "duration": 10,
+        "ads_type": "general",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 8,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_tiny.mp4",
+        "duration": 14,
+        "ads_type": "premium",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 9,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_tiny.mp4",
+        "duration": 17,
+        "ads_type": "ads",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 10,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/video/2025/04/23/273883_tiny.mp4",
+        "url_landscape": "https://cdn.pixabay.com/video/2025/04/23/273883_tiny.mp4",
+        "duration": 17,
+        "ads_type": "ads",
+        "content_type": "video",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 11,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/photo/2022/05/12/20/59/tulips-7192345_1280.jpg",
+        "url_landscape": "https://cdn.pixabay.com/photo/2022/05/12/20/59/tulips-7192345_1280.jpg",
+        "duration": 5,
+        "ads_type": "ads",
+        "content_type": "image",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 12,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/photo/2021/10/30/18/03/berlin-6755246_1280.jpg",
+        "url_landscape": "https://cdn.pixabay.com/photo/2021/10/30/18/03/berlin-6755246_1280.jpg",
+        "duration": 5,
+        "ads_type": "general",
+        "content_type": "image",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 13,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/photo/2017/09/09/10/39/jump-2731641_1280.jpg",
+        "url_landscape": "https://cdn.pixabay.com/photo/2017/09/09/10/39/jump-2731641_1280.jpg",
+        "duration": 5,
+        "ads_type": "general",
+        "content_type": "image",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 14,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/photo/2022/05/07/02/36/childrens-toys-7179337_1280.jpg",
+        "url_landscape": "https://cdn.pixabay.com/photo/2022/05/07/02/36/childrens-toys-7179337_1280.jpg",
+        "duration": 5,
+        "ads_type": "general",
+        "content_type": "image",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 15,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/animation/2023/04/06/23/17/23-17-32-365_512.gif",
+        "url_landscape": "https://cdn.pixabay.com/animation/2023/04/06/23/17/23-17-32-365_512.gif",
+        "duration": 5,
+        "ads_type": "premium",
+        "content_type": "image",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      },
+      {
+        "content_id": 16,
+        "name": "Summer Sale Ad",
+        "url_portrait": "https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif",
+        "url_landscape": "https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif",
+        "duration": 5,
+        "ads_type": "premium",
+        "content_type": "image",
+        "media_type": "media",
+        "expiry_date": 1767225599000
+      }
+    ],
+    "main_contents": [
+      {
+        "content_id": 1
+      },
+      {
+        "content_id": 2
+      },
+      {
+        "content_id": 13
+      },
+      {
+        "content_id": 14
+      },
+      {
+        "content_id": 15
+      },
+      {
+        "content_id": 16
+      }
+    ],
+    "top_right_contents": [
+      {
+        "content_id": 11
+      },
+      {
+        "content_id": 12
+      },
+      {
+        "content_id": 13
+      },
+      {
+        "content_id": 14
+      },
+      {
+        "content_id": 15
+      },
+      {
+        "content_id": 16
+      }
+    ],
+    "bottom_right_contents": [
+      {
+        "content_id": 11
+      },
+      {
+        "content_id": 12
+      },
+      {
+        "content_id": 13
+      },
+      {
+        "content_id": 14
+      },
+      {
+        "content_id": 15
+      },
+      {
+        "content_id": 16
+      }
+    ],
+    "top_contents": [
+      {
+        "message": "Welcome to our store! We are happy to see you here today."
+      },
+      {
+        "message": "Welcome to our store! We are happy to see you here today."
+      },
+      {
+        "message": "SEVERE WEATHER ALERT: Please proceed with caution. Heavy rain expected."
+      },
+      {
+        "message": "Visit The Coffee Corner on the second floor for a 10% discount on all lattes!"
+      }
+    ],
+    "bottom_contents": [
+      {
+        "message": "Happy Holidays from all of us! Wishing you a season of joy."
+      },
+      {
+        "message": "Happy Holidays from all of us! Wishing you a season of joy."
+      },
+      {
+        "message": "Did you know? A group of flamingos is called a flamboyance."
+      },
+      {
+        "message": "A set of car keys has been found. Please inquire at the customer service desk."
+      }
+    ]
   }
 }
